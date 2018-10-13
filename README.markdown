@@ -19,6 +19,7 @@ Conceived as an alternative to Cucumber, here are some of its design goals:
 Spinach is tested against **2.0, 2.1, 2.2 and 2.3** as well as **JRuby 9000**.
 
 ## Getting started
+VANDALIZE
 
 Start by adding spinach to your Gemfile:
 
